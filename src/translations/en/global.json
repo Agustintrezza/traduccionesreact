@@ -1,0 +1,16 @@
+{
+    "header": {
+        "hello-world": "Choose a Language"
+    },
+    "botones": {
+        "boton-es": "SPANISH",
+        "boton-en": "ENGLISH",
+        "boton-it": "ITALIAN",
+        "boton-al": "GERMAN",
+        "boton-ch": "CHINESE"
+    },
+    "textos": {
+        "texto": "This is a paragraph, in which we can put the content that we want. Then, when clicking on the button, we are going to translate it, this is done as follows, we replace the text with another one which is going to be translated into the language we want and we show it on the screen. We use the i18n library to assign and call each text, switching one text for another."
+    }
+
+}

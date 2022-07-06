@@ -1,0 +1,16 @@
+{
+    "header": {
+        "hello-world": "Elegí el idioma"
+    },
+    "botones": {
+        "boton-es": "ESPAÑOL",
+        "boton-en": "INGLÉS",
+        "boton-it": "ITALIANO",
+        "boton-al": "ALEMAN",
+        "boton-ch": "CHINO"
+    },
+    "textos": {
+        "texto": "Este es un párrafo, en el que podemos poner el contenido que queramos. Luego al hacer click en el botón lo vamos a traducir, esto se hace de la siguiente manera, reemplazamos el texto por otro que se va a traducir al idioma que queramos y lo mostramos en pantalla. Usamos la biblioteca i18n para asignar y llamar a cada texto, cambiando un texto por otro."
+    }
+
+}

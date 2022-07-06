@@ -1,0 +1,16 @@
+{
+    "header": {
+        "hello-world": "Ich habe mich für eine Sprache entschieden"
+    },
+    "botones": {
+        "boton-es": "SPANISCH",
+        "boton-en": "ENGLISCH",
+        "boton-it": "ITALIENISCH",
+        "boton-al": "DEUTSCH",
+        "boton-ch": "CHINESISCH"
+    },
+    "textos": {
+        "texto": "Dies ist ein Absatz, in den wir den gewünschten Inhalt einfügen können. Wenn wir dann auf die Schaltfläche klicken, werden wir ihn übersetzen. Dies geschieht auf folgende Weise: Wir ersetzen den Text durch einen anderen, der in die gewünschte Sprache übersetzt wird, und zeigen ihn auf dem Bildschirm an. Wir verwenden die i18n-Bibliothek, um jeden Text zuzuweisen und aufzurufen, wobei wir einen Text gegen einen anderen austauschen."
+    }
+
+}

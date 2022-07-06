@@ -1,0 +1,16 @@
+{
+    "header": {
+        "hello-world": "scegli una lingua"
+    },
+    "botones": {
+        "boton-es": "SPAGNOLO",
+        "boton-en": "INGLESE",
+        "boton-it": "ITALIANO",
+        "boton-al": "TEDESCO",
+        "boton-ch": "CINESE"
+    },
+    "textos": {
+        "texto": "Questo è un paragrafo, in cui possiamo inserire il contenuto che vogliamo. Quindi, quando facciamo clic sul pulsante che lo traduciamo, questo viene fatto nel modo seguente, sostituiamo il testo con un altro che verrà tradotto nella lingua che desideriamo e lo mostriamo sullo schermo. Usiamo la libreria i18n per assegnare e chiamare ogni testo, scambiando un testo con un altro."
+    }
+
+}
